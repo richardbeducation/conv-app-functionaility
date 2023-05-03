@@ -37,6 +37,7 @@ export const topicList = [
   { id: 9, topic: 'Money', questions: ['Q1', 'Q2', 'Q3'] },
   { id: 10, topic: 'Childhood', questions: ['Q1', 'Q2', 'Q3'] },
   { id: 11, topic: 'Have you ever?', questions: ['Q1', 'Q2', 'Q3'] },
+  { id: 12, topic: 'Pets', questions: ['Q1', 'Q2', 'Q3'] },
 ]
 
 function App() {
