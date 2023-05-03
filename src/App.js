@@ -36,7 +36,15 @@ export const topicList = [
   { id: 8, topic: 'Nature', questions: ['Q1', 'Q2', 'Q3'] },
   { id: 9, topic: 'Money', questions: ['Q1', 'Q2', 'Q3'] },
   { id: 10, topic: 'Childhood', questions: ['Q1', 'Q2', 'Q3'] },
-  { id: 11, topic: 'Have you ever?', questions: ['Q1', 'Q2', 'Q3'] },
+  {
+    id: 11,
+    topic: 'Have you ever?',
+    questions: [
+      'Have you sver slept in a tent?',
+      'Have you ever milked a cow?',
+      'Have you ever broken a bone?',
+    ],
+  },
   { id: 12, topic: 'Pets', questions: ['Q1', 'Q2', 'Q3'] },
 ]
 
