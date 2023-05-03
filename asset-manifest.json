@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/conv-app-functionaility/static/css/main.00cf7440.css",
-    "main.js": "/conv-app-functionaility/static/js/main.e4410540.js",
+    "main.js": "/conv-app-functionaility/static/js/main.5b356d6b.js",
     "index.html": "/conv-app-functionaility/index.html",
     "main.00cf7440.css.map": "/conv-app-functionaility/static/css/main.00cf7440.css.map",
-    "main.e4410540.js.map": "/conv-app-functionaility/static/js/main.e4410540.js.map"
+    "main.5b356d6b.js.map": "/conv-app-functionaility/static/js/main.5b356d6b.js.map"
   },
   "entrypoints": [
     "static/css/main.00cf7440.css",
-    "static/js/main.e4410540.js"
+    "static/js/main.5b356d6b.js"
   ]
 }
