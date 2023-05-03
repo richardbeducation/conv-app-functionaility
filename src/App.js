@@ -46,6 +46,7 @@ export const topicList = [
     ],
   },
   { id: 12, topic: 'Pets', questions: ['Q1', 'Q2', 'Q3'] },
+  { id: 13, topic: 'Education', questions: ['Q1', 'Q2', 'Q3'] },
 ]
 
 function App() {
