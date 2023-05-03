@@ -60,7 +60,7 @@ export const topicList = [
     id: 11,
     topic: 'Have you ever?',
     questions: [
-      'Have you sver slept in a tent?',
+      'Have you ever slept in a tent?',
       'Have you ever milked a cow?',
       'Have you ever broken a bone?',
       'Have you ever been on TV?',
